@@ -20,7 +20,7 @@ DataScraper API is a lightweight web service that scrapes location-based data fr
    ```
 3. Run the Flask server:
    ```sh
-   python app.py
+   python main.py
    ```
 
 ## API Usage
