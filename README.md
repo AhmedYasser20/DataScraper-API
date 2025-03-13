@@ -37,6 +37,9 @@ GET /download_csv
 ```
 GET http://localhost:5000/download_csv?search_keyword=Restaurants+in+Cairo&max_businesses=50
 ```
+**Example Output CSV**
+![image](https://github.com/user-attachments/assets/e5211f1e-be05-42e9-8bc5-0e3713e84c84)
+
 
 **Response:**
 A CSV file containing the scraped data.
